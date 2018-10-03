@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1053822055321",
+    "firebase_url": "https://nuwi-test.firebaseio.com",
+    "project_id": "nuwi-test",
+    "storage_bucket": "nuwi-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053822055321:android:f6bff2cb682f47e5",
+        "android_client_info": {
+          "package_name": "com.example.meriandn.nuwitest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053822055321-8q3bccin7of0o82cecvdpmri2c9u2jh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meriandn.nuwitest",
+            "certificate_hash": "dfa41e977e68b662a38b8d78d70762b6dc93bdf7"
+          }
+        },
+        {
+          "client_id": "1053822055321-pllgps6u7kdb7r85vtusjn10evijlkpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqEYIZr6kp_9qmcuVOeViSyzg9MJepvYk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053822055321-pllgps6u7kdb7r85vtusjn10evijlkpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
